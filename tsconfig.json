@@ -1,0 +1,16 @@
+{ 
+    "version": "1.6.2",
+    "compilerOptions": {    
+        "target": "ES5",
+        "module": "commonjs",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,        
+        "noImplicitAny": false,
+        "declaration": false,                        
+        "sourceMap": true     
+    },
+    "files": [
+        "app.ts",
+        "node_modules/typescript/lib/lib.es6.d.ts"                
+    ] 
+}
